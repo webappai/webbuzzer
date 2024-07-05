@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#nameInput {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#nameInput label {
+  display: block;
+}
+
+#nameInput input {
+  width: 200px;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+#nameInput button {
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+#buzzerButton {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#buzzerButton button {
+  padding: 20px;
+  background-color: red;
+  color: white;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+}
+
+#nameDisplay {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+}
